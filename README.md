@@ -18,6 +18,7 @@ The task involved reviewing an existing **Acceptable Use Standard** policy, iden
 - Updated Acceptable Use Standard policy (PDF)
 - Highlighted original policy with weak points
 - Screenshots of changes
+- Video Recordings
 
 ## Internship
 [Intern Intelligence](https://www.internintelligence.com) — Cyber Security Internship
